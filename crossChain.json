@@ -1,4 +1,4 @@
-[
+  [
   {
     "name": "",
     "chainId": 0,
@@ -409,6 +409,12 @@
         "symbol": "IXT",
         "decimals": 18
       }
+    },
+    "0x4c82266B29F82525FD20560638C517D11219F5B5": {
+      "name": "DappRadar Test",
+      "symbol": "RADAR Test",
+      "mainnetEquivalent": "0x44709a920fccf795fbc57baa433cc3dd53c44dbe",
+      "decimals": 18
     },
     "rpc": [
       "https://ethereum-goerli-rpc.allthatnode.com/",
